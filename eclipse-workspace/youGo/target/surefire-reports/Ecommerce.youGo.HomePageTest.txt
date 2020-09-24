@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: Ecommerce.youGo.HomePageTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 45.3 s <<< FAILURE! - in Ecommerce.youGo.HomePageTest
+searchProduct(Ecommerce.youGo.HomePageTest)  Time elapsed: 3.357 s  <<< FAILURE!
+java.lang.NullPointerException
+	at Ecommerce.youGo.HomePageTest.searchProduct(HomePageTest.java:21)
+

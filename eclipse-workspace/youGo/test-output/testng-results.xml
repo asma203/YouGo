@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15798" started-at="2020-09-24T09:15:41Z" finished-at="2020-09-24T09:15:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15798" started-at="2020-09-24T09:15:41Z" finished-at="2020-09-24T09:15:57Z">
+      <class name="Ecommerce.youGo.ChapterOneTest">
+        <test-method status="PASS" signature="ChromeBrowser()[pri:0, instance:Ecommerce.youGo.ChapterOneTest@56ef9176]" name="ChromeBrowser" is-config="true" duration-ms="14441" started-at="2020-09-24T09:15:41Z" finished-at="2020-09-24T09:15:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChromeBrowser -->
+        <test-method status="PASS" signature="chapterOneParamter()[pri:0, instance:Ecommerce.youGo.ChapterOneTest@56ef9176]" name="chapterOneParamter" duration-ms="1310" started-at="2020-09-24T09:15:56Z" finished-at="2020-09-24T09:15:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chapterOneParamter -->
+      </class> <!-- Ecommerce.youGo.ChapterOneTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
