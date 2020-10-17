@@ -1,8 +1,0 @@
--------------------------------------------------------------------------------
-Test set: TestSuite
--------------------------------------------------------------------------------
-Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 81.889 s <<< FAILURE! - in TestSuite
-Attend(emp.attendence.AttendenceTest)  Time elapsed: 16.553 s  <<< FAILURE!
-java.lang.AssertionError: expected:<https://emp.roqay.com/panel/dashboard> but was:<https://emp.roqay.com/panel/front/attendance>
-	at emp.attendence.AttendenceTest.Attend(AttendenceTest.java:25)
-
